@@ -27,10 +27,14 @@ Lo primero que sabemos es que contamos con 5 Datos(Variables).
 (Ambas forman el punto P) <--- **Este es el punto en el cual debemos informar si esta dentro o fuera de la circunferencia**.
 
 
-## OK todo muy lindo pero como lo hacemos??
+## OK todo muy lindo pero como lo hacemos?? 😕 😕
 
 Bien. Teniendo esos datos nosotros precisamos saber la **Distancia**  que hay entre el punto C(centro de la circunferencia) y el punto P.
 
+
+Para ello recurrimos a esta formula -> √((xp-xc)(xp-xc) + (yp-yc)(yp-yc)) 
+
+Esta formulita, nos dara la distancia, simplemente remplazamos con los datos que tenemos
 
 Esa Distancia la compararemos con el radio de C (que es un dato que tenemos) y con una simple lógica booleana decimos:
 
@@ -50,8 +54,8 @@ print : El punto esta sobre la circunferencia.
 sino:
 
 print : El punto esta fuera
-
-## EN C seria : 
+ 
+##  EN C 💻  seria : 
 
 IF (radioP < radioC){                 **//Dentro del corchete colocamos lo que va a devolver el if**
 
@@ -72,6 +76,6 @@ IF (radioP < radioC){                 **//Dentro del corchete colocamos lo que v
  
  }
  
- ## LISTO ES HORA DE PASARLO 🚀🚀 
+ ## LISTO ES HORA DE PASARLO 🚀🚀 💻💻
  
  Arriba esta el archivo .c, descarguen y veanlo, esta todo documentado. cualquier duda me tiran un comentario..
