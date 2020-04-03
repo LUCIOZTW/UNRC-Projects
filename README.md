@@ -14,7 +14,7 @@ _O utilizar alguno online(https://www.onlinegdb.com/online_c_compiler)_
 
 ## Wiki 📖
 
-Puedes encontrar la documentación completa de cada proyecto particular asi como su resolución en la  [Wiki](https://github.com/tu/Lucioztw/wiki)
+Puedes encontrar la documentación completa de cada proyecto particular asi como su resolución en la  [Wiki del Proyecto](https://github.com/tu/Lucioztw/wiki)
 
 ## Autores ✒️
 
@@ -23,7 +23,7 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (GRATUITA) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ## Contribuyendo 🖇️
 
