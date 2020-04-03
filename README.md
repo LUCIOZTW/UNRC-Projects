@@ -2,6 +2,8 @@
 
 Básicamente la idea es subir las actividades de la universidad, ir aprendiendo y tratar de trasladarlas a C
 
+** Si estas en Movil, click arriba en view code ahi apareceran las carpetas, cada una contiene un archivo "README.MD" Click en él y veran la solucion **
+
 ## Comenzando 🚀
 ![Unrc Logo](https://raw.githubusercontent.com/LUCIOZTW/UNRC-Projects/master/Imagenes/logo-universidad-nacional-de-rio-cuarto.png)
 
