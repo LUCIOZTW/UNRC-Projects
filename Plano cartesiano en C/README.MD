@@ -5,12 +5,12 @@
 ![Unrc Logo](https://raw.githubusercontent.com/LUCIOZTW/UNRC-Projects/master/Imagenes/paragitHUB.png)
 
 ## Vamos por partes ⚙️⚙️⚙️
-Lo primero que sabemos es que contamos con 5 Datos. 
-a
-a
-Aasdadasd
+Lo primero que sabemos es que contamos con 5 Datos(Variables).
 
-#asdsad
+**XC** = Ubicacion en la variable independiente el punto C
+**XY** = Ubicacion en la variable dependiente   el punto C
+(Ambas forman el punto C)
+**Radio** = Radio del punto C(formando asi la circunferencia)
 
-##asdsadsa
-## asdsa
+**XP** = Ubicacion en la variable independiente el punto X
+**YP** = Ubicación en la variable dependiente   el punto Y
