@@ -19,9 +19,9 @@ Lo primero que sabemos es que contamos con 5 Datos(Variables).
 
 
 
-**XP** = Ubicacion en la variable independiente el punto X
+#**XP** = Ubicacion en la variable independiente el punto X
 
 
 **YP** = Ubicación en la variable dependiente   el punto Y
 
-s
+
